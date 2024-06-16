@@ -12,8 +12,11 @@ _Polices:_
 Logo et titres : Shrikhand  
 Texte : Roboto  
 _Couleurs:_  
-Primaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Secondaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Tertiaire  
-`#9356DC` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	`#FF79DA` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	`#99E2D0`
+Primaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Secondaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Tertiaire  
+![#9356DC](https://placehold.co/105x15/9356DC/9356DC.png)
+![#FF79DA](https://placehold.co/105x15/FF79DA/FF79DA.png)
+![#99E2D0](https://placehold.co/105x15/99E2D0/99E2D0.png)  
+#9356DC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #FF79DA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #99E2D0
 
 ## Contenu des pages
 
