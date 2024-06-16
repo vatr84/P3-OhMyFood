@@ -1,19 +1,19 @@
 # Projet 3 (OpenClassrooms - Développeur d'application JavaScript React)
 ## Dynamisez une page web avec des animations CSS - Création du site Ohmyfood
 
-**Pièce jointe :**
-•	[Maquettes mobile et desktop du site Ohmyfood](https://www.figma.com/file/t4449fzDnwGYmzuwQdu87V/Projet-3-FR---Ohmyfood?node-id=0%3A1)
-•	[Prototype du site](https://www.figma.com/proto/t4449fzDnwGYmzuwQdu87V/Maquettes-Ohmyfood-(mobile-et-desktop)?node-id=25368-591&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25368%3A591&show-proto-sidebar=1)
-•	[Fichiers sources (images et textes)](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Images+et+textes+Ohmyfood.zip)
-•	[Brief créatif](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Brief+cr%C3%A9atif+site+Ohmyfood.pdf)
+**Pièce jointe :**  
+•	[Maquettes mobile et desktop du site Ohmyfood](https://www.figma.com/file/t4449fzDnwGYmzuwQdu87V/Projet-3-FR---Ohmyfood?node-id=0%3A1)  
+•	[Prototype du site](https://www.figma.com/proto/t4449fzDnwGYmzuwQdu87V/Maquettes-Ohmyfood-(mobile-et-desktop)?node-id=25368-591&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25368%3A591&show-proto-sidebar=1)  
+•	[Fichiers sources (images et textes)](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Images+et+textes+Ohmyfood.zip)  
+•	[Brief créatif](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Brief+cr%C3%A9atif+site+Ohmyfood.pdf)  
 
-**Identité graphique**
-Polices
-Logo et titres : Shrikhand
-Texte : Roboto
-Couleurs
-Primaire 	Secondaire 	Tertiaire
-#9356DC 	#FF79DA 	#99E2D0
+**Identité graphique**  
+Polices  
+Logo et titres : Shrikhand  
+Texte : Roboto  
+Couleurs  
+Primaire &nbsp;&nbsp;&nbsp;	Secondaire &nbsp;&nbsp;&nbsp;	Tertiaire
+#9356DC &nbsp;&nbsp;&nbsp;	#FF79DA &nbsp;&nbsp;&nbsp;	#99E2D0
 
 ## Contenu des pages
 
@@ -27,7 +27,7 @@ l’utilisateur est redirigé vers la page du menu.
 **Pages de menu (x4)**
 ● 4 pages contenant chacune le menu d’un restaurant.
 
-Footer
+**Footer**
 ● Le footer est identique sur toutes les pages.
 ● Au clic sur “Contact”, un renvoi vers une adresse mail est effectué.
 
