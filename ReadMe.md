@@ -1,7 +1,7 @@
 # Projet 3 (OpenClassrooms - Développeur d'application JavaScript React)
 ## Dynamisez une page web avec des animations CSS - Création du site Ohmyfood
 
-**Pièce jointe :**  
+**Pièces jointes :**  
 •	[Maquettes mobile et desktop du site Ohmyfood](https://www.figma.com/file/t4449fzDnwGYmzuwQdu87V/Projet-3-FR---Ohmyfood?node-id=0%3A1)  
 •	[Prototype du site](https://www.figma.com/proto/t4449fzDnwGYmzuwQdu87V/Maquettes-Ohmyfood-(mobile-et-desktop)?node-id=25368-591&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25368%3A591&show-proto-sidebar=1)  
 •	[Fichiers sources (images et textes)](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Images+et+textes+Ohmyfood.zip)  
@@ -11,9 +11,9 @@
 _Polices:_  
 Logo et titres : Shrikhand  
 Texte : Roboto  
-_Couleurs_  
-Primaire &nbsp;&nbsp;&nbsp;	Secondaire &nbsp;&nbsp;&nbsp;	Tertiaire  
-#9356DC &nbsp;&nbsp;&nbsp;	#FF79DA &nbsp;&nbsp;&nbsp;	#99E2D0
+_Couleurs:_  
+Primaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Secondaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Tertiaire  
+'#9356DC' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	'#FF79DA' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	'#99E2D0'
 
 ## Contenu des pages
 
