@@ -7,13 +7,13 @@
 •	[Fichiers sources (images et textes)](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Images+et+textes+Ohmyfood.zip)  
 •	[Brief créatif](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P4+Animations+CSS+Ohmyfood/Brief+cr%C3%A9atif+site+Ohmyfood.pdf)  
 
-**Identité graphique**  
+**Identité graphique :**  
 _Polices:_  
 Logo et titres : Shrikhand  
 Texte : Roboto  
 _Couleurs:_  
 Primaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Secondaire &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Tertiaire  
-'#9356DC' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	'#FF79DA' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	'#99E2D0'
+`#9356DC` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	`#FF79DA` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	`#99E2D0`
 
 ## Contenu des pages
 
