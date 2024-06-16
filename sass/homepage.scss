@@ -28,6 +28,7 @@
 $color-1: #9356DC;
 $color-2: #FF79DA;
 $color-3: #99E2D0;
+$color-bg:#F6F6F6;
 
 body,
 html {
@@ -104,17 +105,18 @@ html {
 .location {
     display: flex;
     justify-content: center;
-    padding: 1.25rem 1rem;
-    background-color: rgb(243, 243, 243);
-    font-size: 1.2rem;
+    padding: 0.85rem 1rem;
+    background-color: rgb(234, 234, 234);
+    font-size: 1rem;
     position: relative;
+    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.25);
 
     &__icon {
         margin-right: 1rem;
     }
 
     &__text {
-        font-weight: 700;
+        font-weight: 500;
     }
 }
 
@@ -122,7 +124,7 @@ html {
 .reservation {
     padding: 2rem;
     text-align: center;
-    background-color: rgb(250, 250, 250);
+    background-color: $color-bg;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -133,6 +135,7 @@ html {
 
     &__subtitle {
         font-weight: 300;
+        font-size: 1.125rem;
         margin: 1.5rem 0;
     }
 
@@ -185,7 +188,7 @@ html {
         margin: 1rem 0 1rem 0.75rem;
         box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.125);
         border-radius: 1.25rem;
-        background-color: #f6f6f6;
+        background-color: $color-bg;
         display: flex;
         position: relative;
 
@@ -231,7 +234,7 @@ html {
 
 /*************************** restaurants ***************************/
 .restaurants {
-    background-color: #f6f6f6;
+    background-color: $color-bg;
     padding: 2rem 1rem;
 }
 

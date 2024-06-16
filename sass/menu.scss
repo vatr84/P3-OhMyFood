@@ -39,7 +39,7 @@
 .menu {
     margin-top: -4rem;
     border-radius: 2rem 2rem 0 0;
-    background-color: #f6f6f6;
+    background-color: $color-bg;
     z-index: 1;
     position: relative;
 
@@ -86,7 +86,7 @@
 
     &__like {
         transition-duration: .25s;
-        background-color: #f6f6f6;
+        background-color: $color-bg;
         position: absolute;
         top: 0;
         left: 0;
