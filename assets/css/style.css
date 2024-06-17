@@ -351,6 +351,16 @@ html {
   width: 100%;
   object-fit: cover;
 }
+@media (max-width: 40rem) {
+  .rest-img {
+    max-height: 18rem;
+  }
+}
+@media (min-width: 40rem) and (max-width: 64rem) {
+  .rest-img {
+    max-height: 24rem;
+  }
+}
 
 .menu {
   margin-top: -4rem;

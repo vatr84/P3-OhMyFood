@@ -34,6 +34,14 @@
     max-height: 32rem;
     width: 100%;
     object-fit: cover;
+
+    @media (max-width: 40rem) {
+        max-height: 18rem;
+    }
+
+    @media (min-width:40rem) and (max-width:64rem) {
+        max-height: 24rem;
+    }
 }
 
 .menu {
