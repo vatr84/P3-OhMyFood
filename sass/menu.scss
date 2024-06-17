@@ -110,6 +110,10 @@
 .menus-box {
     display: grid;
 
+    @media (min-width: 40rem) {
+          grid-template-columns: 1fr 40rem 1fr;
+    }  
+
     @media (min-width:64rem) {
         grid-template-columns: repeat(3, 1fr);
         column-gap: 1rem;
@@ -120,6 +124,11 @@
     max-width: 100%;
     overflow: hidden;
     padding: 0 1rem;
+
+    @media (min-width: 40rem) and (max-width: 64rem) {
+        grid-column-start: 2;
+        grid-column-end: 3;    
+    }
 
     &__title {
         text-transform: uppercase;

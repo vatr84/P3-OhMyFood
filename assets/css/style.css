@@ -144,7 +144,7 @@ html {
 
 /*************************** fonctionnement ***************************/
 .fonctionnement {
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
 }
 .fonctionnement__title {
   margin-top: 0;
@@ -165,7 +165,7 @@ html {
   margin: 1rem 0 1rem 0.75rem;
   box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.125);
   border-radius: 1.25rem;
-  background-color: #f6f6f6;
+  background-color: #F6F6F6;
   display: flex;
   position: relative;
 }
@@ -206,7 +206,7 @@ html {
 
 /*************************** restaurants ***************************/
 .restaurants {
-  background-color: #f6f6f6;
+  background-color: #F6F6F6;
   padding: 2rem 1rem;
 }
 
@@ -415,6 +415,11 @@ html {
 .menus-box {
   display: grid;
 }
+@media (min-width: 40rem) {
+  .menus-box {
+    grid-template-columns: 1fr 40rem 1fr;
+  }
+}
 @media (min-width: 64rem) {
   .menus-box {
     grid-template-columns: repeat(3, 1fr);
@@ -426,6 +431,12 @@ html {
   max-width: 100%;
   overflow: hidden;
   padding: 0 1rem;
+}
+@media (min-width: 40rem) and (max-width: 64rem) {
+  .menus {
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
 }
 .menus__title {
   text-transform: uppercase;
